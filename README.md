@@ -19,4 +19,4 @@ git status
 git add
 git command
 ```
-[GTS](www.google.com)
+[GTS](https://www.google.com/?safe=active&ssui=on)
